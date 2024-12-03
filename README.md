@@ -1,4 +1,4 @@
-# generator-lp-2 
+# generator-lp-3
 > Gerador de projetos da disciplina LP3
 
 ## Instalação
